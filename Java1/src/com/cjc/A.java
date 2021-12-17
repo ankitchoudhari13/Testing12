@@ -7,5 +7,9 @@ public class A {
 		System.out.println("AAAAA");
 		System.out.println("BBBBB");
 	}
+	
+	public void m1() {
+		System.out.println("m1");
+	}
 
 }
